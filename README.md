@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Anggara, a fresh graduate of Telkom University from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Bandung, Indonesia.</b> Currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Tuban, East Java, Indonesia</b>. </p>
+<p>Welcome to my page! </br> I'm Anggara, a Software Engineer - Mobile App Developer of [Ciheul Technologies](https://www.ciheul.com/), graduated from Telkom University <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Bandung, Indonesia.</b> Currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Bandung, Indonesia</b>. </p>
 
 ### Github Statistic
 <p align="left">
